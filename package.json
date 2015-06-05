@@ -1,0 +1,26 @@
+{
+  "name": "httpjs",
+  "version": "0.0.1",
+  "description": "Tiny HTTP server",
+  "main": "bin/init",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mboughaba/httpjs.git"
+  },
+  "keywords": [
+    "tiny",
+    "http",
+    "server",
+    "web",
+    "express"
+  ],
+  "author": "Mohamed Boughaba <mohamed.bgb@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mboughaba/httpjs/issues"
+  },
+  "homepage": "https://github.com/mboughaba/httpjs#readme"
+}
